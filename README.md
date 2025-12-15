@@ -37,5 +37,4 @@ The project uses the **Telco Customer Churn** dataset, which includes:
 - `telco.csv` – Dataset used for the analysis
 - `README.md` – Project documentation
 
-## Notes
-This project is intended for learning and portfolio purposes and demonstrates a complete data analysis and machine learning workflow.
+
